@@ -16,7 +16,7 @@ Suzieq does multiple things. It [collects](https://suzieq.readthedocs.io/en/late
 
 Suzieq supports Analysis using CLI, GUI, REST API, and python objects. For the most part they are equivalent, though with the GUI we have combined the output of multiple commands of the CLI into one page.
 
-The GUI has a  status page to let you know what the status of entitites in your network.
+The GUI has a  status page to let you know what the status of entities in your network.
 ![Suzieq GUI status](images/status.png)
 
 The Xplore page lets you dive into what is in your network. ![Explore device](images/devices-gui.png)
